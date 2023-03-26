@@ -16150,8 +16150,9 @@
     githubId = 60148;
   };
   water-sucks = {
-    email = "varun@cvte.org";
     name = "Varun Narravula";
+    email = "varun@snare.dev";
+    matrix = "@water-sucks:matrix.org";
     github = "water-sucks";
     githubId = 68445574;
   };
