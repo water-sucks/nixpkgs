@@ -30621,6 +30621,7 @@ with pkgs;
   keylight-controller-mschneider82 = callPackage ../applications/misc/keylight-controller-mschneider82 { };
 
   leftwm = callPackage ../applications/window-managers/leftwm { };
+  leftwm-theme = callPackage ../applications/window-managers/leftwm/theme.nix { };
 
   levant = callPackage ../applications/networking/cluster/levant { };
 
